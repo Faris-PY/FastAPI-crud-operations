@@ -1,0 +1,8 @@
+decorator
+fastapi
+pydantic
+python-dotenv
+SQLAlchemy
+uvicorn
+validators
+psycopg2
